@@ -3,6 +3,10 @@ layout: post
 title:  "Ubuntu shell"
 tags: ubuntu bash dash
 ---
+{{ page.title }}
+================
+
+<p class="meta">28 Feb 2015 </p>
 
 Ubuntu 6.10開始之後, `/bin/sh`預設為`dash`, 為何要作此改變呢?
 
